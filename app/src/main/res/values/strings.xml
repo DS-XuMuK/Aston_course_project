@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Aston Rick and Morty</string>
+    <string name="splash_screen">Splash screen</string>
+    <string name="menu_title_characters">Characters</string>
+    <string name="menu_title_locations">Locations</string>
+    <string name="menu_title_episodes">Episodes</string>
+    <string name="species_label">species:</string>
+    <string name="status_label">status:</string>
+    <string name="gender_label">gender:</string>
+    <string name="episode_label">episode:</string>
+    <string name="air_date_label">air date:</string>
+    <string name="type_label">type:</string>
+    <string name="origin_label">origin:</string>
+    <string name="location_label">location:</string>
+    <string name="created_label">created:</string>
+    <string name="related_series_label">Related series:</string>
+    <string name="related_characters_label">Related characters:</string>
+    <string name="dimension_label">dimension:</string>
+</resources>
